@@ -1,6 +1,5 @@
 ### Tetris 
-This was my final Project during my c++ Class in the SS24. The task given was to code Tetris according to the rules of the offical Tetris rulebook within the Terminal. 
-
+This project was my final assignment for the C++ class in Summer Semester 2024. The goal was to implement Tetris in the terminal, following the rules of the official Tetris Guideline. This was my first major C++ project and a valuable learning experience in both game development and software engineering.
 
 
 ##### Project Structure
