@@ -5,17 +5,12 @@ This was coded during my c++ class. We were only given the Task with no direct i
 
 ### Project Structure
 
-    Tetris.cpp/.h - Game logic and main loop
-
-    Tetrominos.cpp/.h - Tetromino shapes, movement, and rotation
-
-    TerminalManager.h - Abstract interface for terminal drawing/input
-
-    NcursesTerminalManager.cpp/.h - Ncurses-based implementation for real terminal
-
-    MockTerminalManager.cpp/.h - Mock for unit testing
-
-    TetrisTest.cpp - Unit tests for game mechanics
+- Tetris.cpp/.h - Game logic and main loop
+- Tetrominos.cpp/.h - Tetromino shapes, movement, and rotation
+- TerminalManager.h - Abstract interface for terminal drawing/input
+- NcursesTerminalManager.cpp/.h - Ncurses-based implementation for real terminal
+- MockTerminalManager.cpp/.h - Mock for unit testing
+- TetrisTest.cpp - Unit tests for game mechanics
 
 ### What I Learned
 
