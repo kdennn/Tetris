@@ -1,9 +1,9 @@
-##### Tetris
-This was coded during my c++ class. We were only given the Task with no direct instructions
+### Tetris 
+This was my final Project during my c++ Class in the SS24. The task given was to code Tetris according to the rules of the offical Tetris rulebook within the Terminal. 
 
 
 
-### Project Structure
+##### Project Structure
 
 - Tetris.cpp/.h - Game logic and main loop
 - Tetrominos.cpp/.h - Tetromino shapes, movement, and rotation
@@ -12,7 +12,7 @@ This was coded during my c++ class. We were only given the Task with no direct i
 - MockTerminalManager.cpp/.h - Mock for unit testing
 - TetrisTest.cpp - Unit tests for game mechanics
 
-### What I Learned
+##### What I Learned
 
 - Object-Oriented Design: How to design classes and interfaces for modular, testable code (e.g., TerminalManager abstraction)
 - Game Logic: Implementing movement, collision detection, row clearing, and scoring
